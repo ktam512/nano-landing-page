@@ -46,7 +46,7 @@ function browserSyncReload(cb) {
   browsersync.reload();
   cb();
 }
-
+ 
 // Watch Task
 function watchTask() {
   watch('*.html', browserSyncReload);
