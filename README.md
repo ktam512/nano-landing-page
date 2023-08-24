@@ -2,5 +2,7 @@
 Building a landing page for a PR agency using HTML, CSS, and JavaScript.
 
 ### Functional Requirements:
-• Toggle between light/ dark mode
-• Hover states for interactive elements
+<ul>
+  <li>Toggle between light/ dark mode</li>
+  <li>Hover states for interactive elements</li>
+</ul>
